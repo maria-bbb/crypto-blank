@@ -188,3 +188,37 @@ body {
 		bottom: -115px;
 		right: -65px;
 }
+.privacy {
+		padding: 80px 108px;
+}
+.privacy__container {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: 106px;
+}
+.privacy__content {
+		max-width: 559px;
+		width: 100%;
+}
+.privacy__subtitle {
+		font-weight: 400;
+		font-size: 12px;
+		line-height: 24px;
+		letter-spacing: 1.2px;
+		text-transform: uppercase;
+		color: #0A121E;
+}
+.privacy__title {
+		font-weight: 400;
+		font-size: 58px;
+		line-height: 68px;
+		color: #0A121E;
+}
+.privacy__text {
+		font-family: 'Inter', sans-serif;
+		font-weight: 400;
+		font-size: 17px;
+		line-height: 32px;
+		color: #455A74;
+}
